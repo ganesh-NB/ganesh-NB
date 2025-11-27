@@ -19,7 +19,7 @@
 ## 📈 GitHub Stats
 
 ## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ganesh-nb-220008271/) • [Portfolio](https://ganeshbhatkalkar.netlify.com)
+[LinkedIn](https://www.linkedin.com/in/ganesh-nb-220008271/) • [Portfolio](https://ganeshbhatkalkar.netlify.app)
 
 <!--
 **ganesh-NB/ganesh-NB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
