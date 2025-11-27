@@ -2,9 +2,10 @@
 # Hi, I'm Ganesh NB 👋
 
 ## 🚀 About Me
+- I am a BCA student looking forward to collaborating and working with others.
 - 🌱 Currently learning: React, Tailwind, Node, etc.
 - 💼 Portfolio: https://ganeshbhatkalkar.netlify.com
-- 🎯 Goal: Becoming a Frontend/Fullstack Developer
+- 🎯 Goal: Becoming a Frontend/Full-stack Developer
 
 ## 🛠 Tech Stack
 - *Frontend:* React, Vite, TailwindCSS
@@ -12,7 +13,7 @@
 - *Tools:* Git, VS Code, Figma
 
 ## 📌 Featured Projects
-- [portfolio]() — I have created my personal portfolio website using React, Tailwindcss.   
+- [portfolio]() — I have created my personal portfolio website using React and TailwindCSS.   
 
 
 ## 📈 GitHub Stats
