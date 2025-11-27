@@ -16,10 +16,9 @@
 
 
 ## 📈 GitHub Stats
-![Your stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ## 🌐 Connect with me
-[LinkedIn](your-link) • [Portfolio](your-site)
+[LinkedIn](https://www.linkedin.com/in/ganesh-nb-220008271/) • [Portfolio](https://ganeshbhatkalkar.netlify.com)
 
 <!--
 **ganesh-NB/ganesh-NB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
