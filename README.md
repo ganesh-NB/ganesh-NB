@@ -3,13 +3,13 @@
 
 ## 🚀 About Me
 - I am a BCA student looking forward to collaborating and working with others.
-- 🌱 Currently learning: React, Tailwind, NodeJs, etc.
-- 🎯 Goal: Becoming a Full-stack Developer
+- 🌱 Currently learning: React, Tailwind, NodeJs, Express etc.
+- 🎯 Goal: Becoming a Full-stack Developer.
 
 ## 🛠 Tech Stack
 - *Frontend:* React, Vite, TailwindCSS
 - *Backend:* Node.js, Express
-- *Tools:* Git, VS Code, Figma
+- *Tools:* Git, VS Code.
 
 ## 📌 Featured Projects
 - [portfolio]() — I have created my personal portfolio website using React and TailwindCSS.   
