@@ -3,8 +3,8 @@
 
 ## 🚀 About Me
 - I am a BCA student looking forward to collaborating and working with others.
-- 🌱 Currently learning: React, Tailwind, Node, etc.
-- 🎯 Goal: Becoming a Frontend/Full-stack Developer
+- 🌱 Currently learning: React, Tailwind, NodeJs, etc.
+- 🎯 Goal: Becoming a Full-stack Developer
 
 ## 🛠 Tech Stack
 - *Frontend:* React, Vite, TailwindCSS
@@ -13,6 +13,7 @@
 
 ## 📌 Featured Projects
 - [portfolio]() — I have created my personal portfolio website using React and TailwindCSS.   
+- [readSphere]() - Intelligent eBook platform that recommends books based on users’ mood and interests using AI-driven suggestions.
 
 
 ## 📈 GitHub Stats
