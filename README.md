@@ -4,7 +4,6 @@
 ## 🚀 About Me
 - I am a BCA student looking forward to collaborating and working with others.
 - 🌱 Currently learning: React, Tailwind, Node, etc.
-- 💼 Portfolio: https://ganeshbhatkalkar.netlify.app
 - 🎯 Goal: Becoming a Frontend/Full-stack Developer
 
 ## 🛠 Tech Stack
